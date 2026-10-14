@@ -176,7 +176,7 @@ h1 {
   border: 1px solid #18221d;
   border-radius: 999px;
   color: #ffffff;
-  background: #18221d;
+  background: #b33a24;
   font: inherit;
   cursor: pointer;
 }
@@ -220,7 +220,7 @@ h1 {
 
 .site-footer {
   color: #ffffff;
-  background: #18221d;
+  background: #b33a24;
 }
 
 .site-footer p {
